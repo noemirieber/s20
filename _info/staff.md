@@ -54,3 +54,13 @@ iframe { width: 75%; height: 950px; overflow: scroll; }
 </tr>
 </table> 
 -->
+
+<tr>
+  <td>
+  <h3> Noemi R. (Tutor) </h3>
+    Preferred Pronouns: She, Her, Hers <br/>
+    Major: Statistics and Data Science <br/>
+    Previous experience as a tutor: This is my first time tutoring at UCSB. <br/>
+   <i> Hi guys, my name is Noemi (she/her/hers) and I am a tutor for CD100! I am a third year Statistics and Data Science     major, and was a tutor for CS8 last quarter. I am currently involved in Data Science Club, as well as undergraduate research focusing on sustainable forms of energy and image processing with a professor on campus. (Feel free to ask me about either!) I took Intro to Data Science with Prof. K and Prof. Franks last spring, and it has been one of my favorite classes at UCSB so far. When I’m not super busy with school, research, or work, I like to do yoga (I’m a certified yoga teacher!), spend time outside, cook, and travel. I’m looking forward to getting to know all of you and having a great quarter. (: </i><br/>
+  </td>
+</tr>
